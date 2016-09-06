@@ -1,1 +1,2 @@
 It is so a planet!
+Here is the added line for your merge conflict homework.
